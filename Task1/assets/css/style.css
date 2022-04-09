@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.alphabet .letter .title {
+  width: 95%;
+  height: 40px;
+  background-color: rgb(144, 144, 144);
+  margin: 20px 0 0 18px;
+  position: sticky;
+  top: 10px;
+}
+.alphabet .letter .title span {
+  color: whitesmoke;
+  font-size: 35px;
+}
+.alphabet .letter .words span {
+  display: block;
+}
+.alphabet .letter .words {
+  margin: 20px 0 0 60px;
+  font-size: large;
+  position: relative;
+}
+.alphabet .letter {
+  margin-top: 5px;
+}
+.alphabet {
+  height: 500vh;
+  width: 100vw;
+}
