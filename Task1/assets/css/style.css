@@ -10,6 +10,7 @@
   margin: 20px 0 0 18px;
   position: sticky;
   top: 10px;
+  z-index: 1;
 }
 .alphabet .letter .title span {
   color: whitesmoke;
